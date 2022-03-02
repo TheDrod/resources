@@ -137,6 +137,8 @@
 - [pattern.css](https://bansal.io/pattern-css) (CSS)
 - [Patternify](http://www.patternify.com/) (CSS)
 - [Patternizer](https://patternizer.com/) (CSS)
+- [Shape Divider](https://www.shapedivider.app/) (CSS)
+- [Haikei](https://app.haikei.app/) (CSS)
 
 ### Image Compression
 
