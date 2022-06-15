@@ -4,7 +4,6 @@
 
 - [Figma](https://www.figma.com/)
 - [Notion](https://www.notion.so/)
-- [Photopea](https://www.photopea.com/)
 
 ### Generators
 
@@ -94,6 +93,8 @@
 ## Images
 
 - [removebg](https://www.remove.bg/)
+- [Photopea](https://www.photopea.com/)
+- [Pixlr](https://pixlr.com/pt/)
 
 ### Photos
 
